@@ -1,0 +1,9 @@
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\bin\Debug\bao-inox.exe.config
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\bin\Debug\bao-inox.exe
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\bin\Debug\bao-inox.pdb
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao-inox.csprojResolveAssemblyReference.cache
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao_inox.Form1.resources
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao_inox.Properties.Resources.resources
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao-inox.csproj.GenerateResource.Cache
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao-inox.exe
+P:\project\CRM-bao-inox\source-test\bao-inox\bao-inox\obj\Debug\bao-inox.pdb
